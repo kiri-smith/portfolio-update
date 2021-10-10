@@ -12,3 +12,12 @@
 .card-image{
     width: 20%;
 }
+
+.about-me{
+    width: 90%;
+    margin: auto;
+}
+
+.big-link{
+    color: magenta !important;
+}
