@@ -21,3 +21,24 @@
 .big-link{
     color: magenta !important;
 }
+
+.card-one-container{
+    margin: auto ;
+}
+
+.project-links{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    padding-left: 10%;
+}
+
+.first-link{
+    padding-left: 60%;
+    padding-right: 5%;
+}
+
+.project-pics{
+    display: flex;
+    
+}
