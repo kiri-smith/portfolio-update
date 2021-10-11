@@ -1,4 +1,6 @@
-
+.main-container{
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
 
 .nav-deets{
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -16,14 +18,19 @@
 .about-me{
     width: 90%;
     margin: auto;
+    padding: 15px;
 }
 
 .big-link{
-    color: magenta !important;
+    color: white !important;
 }
 
 .card-one-container{
     margin: auto ;
+    padding: 15px;
+    background-color: white;
+    color: black;
+    font-size: 20px;
 }
 
 .project-links{
@@ -34,11 +41,31 @@
 }
 
 .first-link{
-    padding-left: 60%;
-    padding-right: 5%;
+    margin-right: 5%;
+    font-size: 16px;
+    background-color: black;
+    
+
 }
+
+.second-link{
+    font-size: 16px;
+    background-color: black;
+   
+}
+
+
 
 .project-pics{
     display: flex;
+}
+
+.project-pic-one{
+    padding right: 10px;
+}
+
+.title-text{
+    font-size: 24px;
+    padding-right: 60%;
     
 }
