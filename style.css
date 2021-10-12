@@ -28,8 +28,8 @@
 .card-one-container{
     margin: auto ;
     padding: 15px;
-    background-color: white;
-    color: black;
+    background-color: black;
+    color: white;
     font-size: 20px;
 }
 
@@ -99,7 +99,13 @@
     width: 100%;
 }
 
+
+
 .quiz-img{
     width: 100%;
-    align-items: center;
+    padding-top: 5%;
+}
+
+#assignments{
+    background-color: black;
 }
