@@ -123,3 +123,20 @@
 #big-footer{
     font-size: 24px;
 }
+
+
+  @media screen and (max-width: 768px) {
+    .nav-deets {
+        display: block !important;
+        flex-direction: column !important;
+        color: white !important;
+    }
+}
+
+  @media screen and (max-width: 576px) {
+    .nav-deets {
+        display: block !important;
+        flex-direction: column !important;
+        color: white !important;
+    }
+  }
