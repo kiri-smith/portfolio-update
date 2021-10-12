@@ -109,3 +109,17 @@
 #assignments{
     background-color: black;
 }
+
+.footer-deets{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: white;
+
+}
+
+.footer-links{
+    color: black;
+}
+
+#big-footer{
+    font-size: 24px;
+}
