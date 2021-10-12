@@ -18,13 +18,12 @@ For this project, I used HTML and CSS to create an updated portfolio. The portfo
 
 ## Deployed Link
 
-* [https://kiri-smith.github.io/weather-app/](#)
+* [ https://kiri-smith.github.io/portfolio-update/](#)
 
 ## Author
 
 * Kiri Smith 
 
-- [https://kiri-smith.github.io/](#)
 - [https://github.com/kiri-smith](https://github.com/)
 - [https://www.linkedin.com/in/kiri-lynne-smith/](https://www.linkedin.com/)
 
