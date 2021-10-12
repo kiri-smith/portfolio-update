@@ -4,7 +4,7 @@ For this project, I used HTML and CSS to create an updated portfolio. The portfo
 
 ## Snapshot
 
-<img src="snip.JPG" alt="Screenshot of Weather App">
+<img src="snip1.JPG" alt="Screenshot of portfolio">
 <img src="snip2.JPG" alt="Screenshot of Weather App">
 
 ## Built With
