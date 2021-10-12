@@ -4,8 +4,8 @@ For this project, I used HTML and CSS to create an updated portfolio. The portfo
 
 ## Snapshot
 
-<img src="snip1.JPG" alt="Screenshot of portfolio">
-<img src="snip2.JPG" alt="Screenshot of portfolio work">
+<img src="assets/snip1.JPG" alt="Screenshot of portfolio">
+<img src="assets/snip2.JPG" alt="Screenshot of portfolio work">
 
 ## Built With
 
