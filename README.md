@@ -5,19 +5,16 @@ For this project, I used HTML and CSS to create an updated portfolio. The portfo
 ## Snapshot
 
 <img src="snip1.JPG" alt="Screenshot of portfolio">
-<img src="snip2.JPG" alt="Screenshot of Weather App">
+<img src="snip2.JPG" alt="Screenshot of portfolio work">
 
 ## Built With
 
 * [Visual Studio Code](https://code.visualstudio.com/) - to create and modify the code on my local device
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - to create elements
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - to style the html elements
-* [Javascript](https://www.javascript.com/) - to create actions on the page
-* [jQuery](https://jquery.com/) - to add actions to the page
-* [Bootstrap](https://getbootstrap.com/) - style the page
+* [Materialize](https://materializecss.com/) - to style the containers and nav bars
 * [Git](https://git-scm.com/) - to track changes and push commits
 * [GitHub](github.com) - to host the repository and deploy with GitHub pages
-* [OpenWeather](https://openweathermap.org/) - to provide the weather data upon request
 
 ## Deployed Link
 
