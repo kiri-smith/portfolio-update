@@ -26,6 +26,7 @@ For this project, I used HTML and CSS to create an updated portfolio. The portfo
 
 - [https://github.com/kiri-smith](https://github.com/)
 - [https://www.linkedin.com/in/kiri-lynne-smith/](https://www.linkedin.com/)
+- [https://medium.com/@kirilynne](https://medium.com/)
 
 ## License
 
