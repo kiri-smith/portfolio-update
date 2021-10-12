@@ -98,3 +98,8 @@
 .workday-img{
     width: 100%;
 }
+
+.quiz-img{
+    width: 100%;
+    align-items: center;
+}
